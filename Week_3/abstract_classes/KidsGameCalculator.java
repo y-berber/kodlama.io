@@ -1,4 +1,4 @@
-package abstract_classes;
+
 
 public class KidsGameCalculator extends GameCalculator{
     public void calculate(){
