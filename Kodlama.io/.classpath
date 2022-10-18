@@ -5,7 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="Day2"/>
+	<classpathentry excluding="Week_1/odev_2/MiniProjects_11/|Week_1/odev_2/ArrayDemo_8/|Week_1/odev_2/Conditionals_4/|Week_1/odev_2/DataTypes_3/|Week_1/odev_2/HelloWorld_1/|Week_1/odev_2/LoopDemo_7/|Week_1/odev_2/MultiDimensionalArrayDemo_9/|Week_1/odev_2/ReCapDemo_5/|Week_1/odev_2/StringDemo_10/|Week_1/odev_2/SwitchDemo_6/|Week_1/odev_2/Variables_2/|Week_2/clases/|Week_2/classesWithAttributes/|Week_2/Inheritance/|Week_2/inheritanceDemo/|Week_2/methodOverloading/|Week_2/methods/|Week_2/methods2/|Week_2/recapDemo_Classes/|Week_2/search/|Week_3/abstract_classes/|Week_3/abstract_Demo1/|Week_3/constructor_Java/|Week_3/GettersAndSetters/|Week_3/Inheritance_Java/|Week_3/InheritanceDemo/|Week_3/Interface_Demo1/|Week_3/Interface_Demo2/|Week_3/Java_Classes/|Week_3/Java_Interface/|Week_3/KodlamaioWithLayeredArchitecture/|Week_3/KodlamaioWithLayeredArchitecture/business/|Week_3/KodlamaioWithLayeredArchitecture/core/logging/|Week_3/KodlamaioWithLayeredArchitecture/dataAccess/|Week_3/KodlamaioWithLayeredArchitecture/entities/|Week_3/overloading_Method/|Week_3/overridingDemo_Java/|Week_3/Polymorphism/|Week_3/reference_Types/|Week_3/Value_Types/|Week_1/odev1/|Week_1/odev_2/" kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
