@@ -1,4 +1,4 @@
-public class Company extends Customer{
+public class Company extends Customer135{
     public String companyName;
     public String taxNumber;
 
