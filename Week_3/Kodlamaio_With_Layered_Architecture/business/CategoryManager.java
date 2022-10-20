@@ -18,8 +18,8 @@ public class CategoryManager {
     }
 
     public void add(Category category) throws Exception {
-        for (Category category1: categories) {
-            if(category1.getName() == category.getName() ){
+        for (Category categoryes: categories) {
+            if(categoryes.getName() == category.getName() ){
                 throw new Exception("Categories with the same name cannot be entered");
             }
         }

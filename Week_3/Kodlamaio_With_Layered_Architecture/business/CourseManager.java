@@ -21,11 +21,13 @@ public class CourseManager {
         for (Course course1: courses) {
             if(course1.getName() == course.getName()){
                 throw new Exception("Courses with the same name cannot be entered.");
-            }
-        }
+            	}
+        	}
+        
         if(course.getPrice() < 0){
             throw new Exception("Course price cannot be negative");
-        }
+        	}
+        
         iCourseDao.add(course);
         courses.add(course);
 

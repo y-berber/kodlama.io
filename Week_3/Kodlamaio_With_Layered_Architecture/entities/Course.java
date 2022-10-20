@@ -9,8 +9,7 @@ public class Course {
     private Category category;
     private Instructor instructor;
 
-    public Course(int i, String s, int i1, String imageUrl, Category category1, Instructor instructor1) {
-    }
+  //  public Course(int i, String s, int i1, String imageUrl, Category category1, Instructor instructor1) {}
 
     public Course(int id, String name, String description, double price, String imageUrl, Category category, Instructor instructor) {
         this.id = id;
